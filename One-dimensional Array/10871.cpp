@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int Q10871()
 {
 	int a, b, c;
 

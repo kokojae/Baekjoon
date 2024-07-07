@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main1()
+int Q10807()
 {
 	int a, b[100] = { 0 }, c, d = 0;
 
