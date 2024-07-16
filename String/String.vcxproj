@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\One-dimensional Array\1152.cpp" />
     <ClCompile Include="..\One-dimensional Array\27866.cpp" />
     <ClCompile Include="..\One-dimensional Array\9086.cpp" />
     <ClCompile Include="10809.cpp" />
