@@ -1,7 +1,7 @@
 #include <iostream>
 #include <sstream>
 
-int main()
+int Q1152()
 {
 	std::string str, sub;
 	std::getline(std::cin, str);
