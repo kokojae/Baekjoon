@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\String\25083.cpp" />
+    <ClCompile Include="10988.cpp" />
     <ClCompile Include="2444.cpp" />
     <ClCompile Include="3003.cpp" />
   </ItemGroup>
