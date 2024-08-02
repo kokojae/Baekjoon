@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two-dimensional Array", "Tw
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "General Mathematics 1", "General Mathematics 1\General Mathematics 1.vcxproj", "{EB9D82DB-6359-4712-875D-B41E34A5EC04}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Divisors Multiples Prime Numbers", "Divisors Multiples Prime Numbers\Divisors Multiples Prime Numbers.vcxproj", "{B55F8296-3E20-4E31-ABE2-6496F5FCD000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{EB9D82DB-6359-4712-875D-B41E34A5EC04}.Release|x64.Build.0 = Release|x64
 		{EB9D82DB-6359-4712-875D-B41E34A5EC04}.Release|x86.ActiveCfg = Release|Win32
 		{EB9D82DB-6359-4712-875D-B41E34A5EC04}.Release|x86.Build.0 = Release|Win32
+		{B55F8296-3E20-4E31-ABE2-6496F5FCD000}.Debug|x64.ActiveCfg = Debug|x64
+		{B55F8296-3E20-4E31-ABE2-6496F5FCD000}.Debug|x64.Build.0 = Debug|x64
+		{B55F8296-3E20-4E31-ABE2-6496F5FCD000}.Debug|x86.ActiveCfg = Debug|Win32
+		{B55F8296-3E20-4E31-ABE2-6496F5FCD000}.Debug|x86.Build.0 = Debug|Win32
+		{B55F8296-3E20-4E31-ABE2-6496F5FCD000}.Release|x64.ActiveCfg = Release|x64
+		{B55F8296-3E20-4E31-ABE2-6496F5FCD000}.Release|x64.Build.0 = Release|x64
+		{B55F8296-3E20-4E31-ABE2-6496F5FCD000}.Release|x86.ActiveCfg = Release|Win32
+		{B55F8296-3E20-4E31-ABE2-6496F5FCD000}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
